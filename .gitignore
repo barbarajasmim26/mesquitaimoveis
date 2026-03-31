@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.cache/
+.next/
+.vite/
+.turbo/
+coverage/
+.idea/
+*.swp
+*.swo
+*~
